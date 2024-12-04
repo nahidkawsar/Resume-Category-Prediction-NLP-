@@ -132,6 +132,16 @@ Local URL: http://localhost:8501
 
 ---
 
+--
+
+## About the Creator
+
+This project was created by **H.M. Nahid Kawsar**.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hmnahidkawsar).
+
+---
+
+
 ## No Coding Knowledge? No Problem!
 
 Just follow these instructions step by step. Once everything is set up, you only need to upload resumes, and the app will do the rest for you!
