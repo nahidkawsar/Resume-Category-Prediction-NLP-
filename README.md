@@ -1,3 +1,5 @@
+![app](https://github.com/user-attachments/assets/7db937b7-9479-40c5-b397-df24531a7a10)
+
 # Resume Screening Application
 
 This is an easy-to-use application that predicts the **job category** of a resume. Just follow the steps below to set it up and start using it—no coding knowledge required!
